@@ -17,6 +17,7 @@ __- **Error Handling**: Catches and displays errors in red with a playful messag
 
 ### Limitations
 __- Only fetches new, unacknowledged updates from the Telegram Bot API. Historical messages require the full Telegram API (e.g., using `Telethon` or `Pyrogram`).__
+
 ____- Requires an active internet connection and a valid bot token.__
 
 ## Installation
@@ -24,7 +25,13 @@ ____- Requires an active internet connection and a valid bot token.__
 ### Prerequisites
 __- Python 3.7 or higher__
 __- A Telegram bot token (get one from [BotFather](https://t.me/BotFather))__
+__Install the required library using pip:__
 
+__pip install python-telegram-bot__
+
+# 🔥 Run the Script
+
+__python t-dumper.py__
 
 __FOR MORE INFORMATION AND SUPPORT, CONTACT : https://t.me/rex_cc__
 
