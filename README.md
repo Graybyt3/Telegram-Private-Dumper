@@ -6,9 +6,13 @@ __A Python script to fetch and dump Telegram bot updates into a user-specified f
 
 # 🔥 Key Features
 __- **Colorful ASCII Logo**: Displays a vibrant logo at startup using ANSI escape codes (cyan and magenta).__
+
 __- **Custom File Naming**: Prompts for a file name to save updates, defaulting to `graybyte-tdumper.txt`.__
+
 __- **Bot Name Extraction**: Retrieves and displays the bot’s username before dumping data.__
+
 __- **Detailed Output**: Shows the number of messages dumped and the absolute file path after saving, all in colored text.__
+
 __- **Error Handling**: Catches and displays errors in red with a playful message.__
 
 ### Limitations
