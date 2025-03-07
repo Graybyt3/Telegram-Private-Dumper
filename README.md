@@ -33,5 +33,5 @@ __pip install python-telegram-bot__
 
 __python t-dumper.py__
 
-__FOR MORE INFORMATION AND SUPPORT, CONTACT : https://t.me/rex_cc__
+__FOR MORE INFORMATION AND SUPPORT, CONTACT : [Telegram](https://t.me/rex_cc) __
 
