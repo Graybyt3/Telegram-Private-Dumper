@@ -1,4 +1,4 @@
-# 💚 Graybyte-Tdumper 💚 
+# 💚 GRAYBYTE T-DUMPER 💚 
 
 __A Python script to fetch and dump Telegram bot updates into a user-specified file, featuring a colorful ASCII logo and detailed output.__
 
