@@ -33,12 +33,11 @@ __pip install python-telegram-bot__
 
 __python t-dumper.py__
 
-__FOR MORE INFORMATION AND SUPPORT__
+# 👨🏻‍💻 FOR MORE INFORMATION AND SUPPORT 👨🏻‍💻
 
 [TELEGRAM](https://t.me/rex_cc) | 
 [FACEBOOK](https://www.facebook.com/graybyt3) | 
 [X](https://x.com/gray_byte) | 
 [INSTAGRAM](https://www.instagram.com/gray_byte)
-
 
 
